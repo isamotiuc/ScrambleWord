@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scramble Word</string>
+    <string name="correct_answer">Correct answers\n %d/%d</string>
+    <string name="check">Check</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="retry">Retry</string>
+    <plurals name="record">
+        <item quantity="one">Best result\n %s\n %d second</item>
+        <item quantity="other">Best result\n %s\n %d seconds</item>
+    </plurals>
+</resources>
